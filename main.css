@@ -1,0 +1,28 @@
+body {
+	margin:0px;
+}
+
+.Story {
+	max-width: 1150px;
+    margin: 10px auto;
+    border: 1px solid #DFDFDF;
+    padding: 0px 3px;
+} 
+
+.Headline{
+	font-family: "franklin-light",sans-serif;
+	max-width: 750px;
+    margin: 0px auto;
+}
+
+img {
+	width:100%;
+}
+
+.Story-content{
+	 max-width: 750px;
+    margin: 0px auto;
+    font-family: Georgia, serif;
+    line-height: 29px;
+    font-size: 18px;
+}
